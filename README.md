@@ -60,7 +60,7 @@ Codic создан как **минималистичная обучающая с
 ```
 codic_mini-guide/
 │
-└──src
+└──docs/src
     ├──css/style.css
     └── js/script.js
 ├──.gitignore
