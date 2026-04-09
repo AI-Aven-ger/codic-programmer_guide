@@ -60,11 +60,11 @@ Codic создан как **минималистичная обучающая с
 ```
 codic_mini-guide/
 │
-└──docs/src
-    ├──css/style.css
+└── src
+    ├── css/style.css
     └── js/script.js
 ├──.gitignore
-├──LICENSE
+├── LICENSE
 ├── index.html      # Основное приложение
 └── README.md
 ```
