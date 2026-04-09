@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AI-Aven-ger/codic_mini-guide/blob/main/public/screen.png" width="700">
+  <img src="https://github.com/AI-Aven-ger/codic-programmer_guide/blob/main/public/screen.png" width="700">
 </p>
 
 # 🚀 Codic — Interactive Programming Languages Learning (demo)
