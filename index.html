@@ -1,0 +1,51 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Codic</title>
+<link rel="icon" href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<link rel="stylesheet" href="docs/src/css/style.css">
+</head>
+  
+<body>
+
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24">
+    Codic
+  </div>
+
+  <input type="text" placeholder="Поиск..." class="search-bar" id="searchBar">
+
+  <div class="chat-item" data-lang="python"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">Python</div>
+  <div class="chat-item" data-lang="js"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">JavaScript</div>
+  <div class="chat-item" data-lang="java"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">Java</div>
+  <div class="chat-item" data-lang="c"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">C / C++</div>
+  <div class="chat-item" data-lang="go"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">Go</div>
+  <div class="chat-item" data-lang="php"><img class="lang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">PHP</div>
+</div>
+
+<div class="main">
+  <div class="header">
+    <div>
+      <span id="titleText">Codic — изучение языков</span>
+    </div>
+    <div>
+      <button class="theme-btn" onclick="toggleTheme()">🌙</button>
+    </div>
+  </div>
+  <div class="content" id="content">
+    <h2>Добро пожаловать</h2>
+    <p>Выберите язык слева чтобы начать изучение программирования с примерами, объяснениями и книгами.</p>
+  </div>
+</div>
+
+<script src="docs/src/js/script.js"></script>
+
+<button class="floating-menu" onclick="toggleSidebar()">☰</button>
+</body>
+</html>
