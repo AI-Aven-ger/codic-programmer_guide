@@ -1,8 +1,8 @@
+# 🚀 Codic — Interactive Programming Languages Learning (demo)
+
 <p align="center">
   <img src="https://github.com/AI-Aven-ger/codic-programmer_guide/blob/main/public/screen.png" width="700">
 </p>
-
-# 🚀 Codic — Interactive Programming Languages Learning (demo)
 
 https://ai-aven-ger.github.io/codic-programmer_guide/
 
