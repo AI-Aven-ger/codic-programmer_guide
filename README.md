@@ -63,6 +63,10 @@ codic_mini-guide/
 └── src
     ├── css/style.css
     └── js/script.js
+├── assets
+├── public
+├── .vscode
+├── .github
 ├──.gitignore
 ├── LICENSE
 ├── index.html      # Основное приложение
